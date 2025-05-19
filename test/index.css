@@ -1,0 +1,24 @@
+
+.header {
+    list-style: none;
+    display: flex;
+    justify-content: start;
+}
+
+#img1 {
+    border-style: solid;
+    border-color: yellow;
+    border-width: 3px;
+}
+
+#img2 {
+    box-shadow: 5px 5px lightblue;
+}
+
+#test:hover {
+    font-size: 30px;
+}
+
+input:focus {
+    background-color: pink;
+}
